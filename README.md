@@ -11,13 +11,13 @@ This capstone project focuses on predicting customer churn for a financial insti
 - **Ethical AI**: Incorporation of fairness, transparency, privacy, and accountability principles.
 - **Interpretability**: Use of SHAP and LIME to provide model-agnostic explanations for individual predictions.
 
-# Dataset
+## Dataset
 
 - **Source**: Bank Churn Modelling dataset from the YBI Foundation repository.
 - **Size**: 10,000 anonymized customer records.
 - **Variables**: 14 columns covering demographics (geography, age, gender), banking relationships (tenure, product count, active status), and financial indicators (credit score, balance, salary).
 
-# Methodology (CRISP-DM)
+## Methodology (CRISP-DM)
 The project followed the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework over a 12-week period:
 
 - **Business Understanding**: Defined churn objectives and established a success metric of >75% ROC-AUC.
@@ -26,7 +26,7 @@ The project followed the CRISP-DM (Cross-Industry Standard Process for Data Mini
 - **Modeling**: Trained five algorithms with hyperparameter tuning via GridSearchCV and 5-fold cross-validation.
 - **Evaluation**: Compared models using multiple metrics and conducted bias detection/fairness analysis.
 
-# Results
+## Results
 
 - **Top Model**: Tuned Random Forest and Gradient Boosting achieved the highest ROC-AUC (~0.86).
 - **Key Churn Drivers**:
@@ -36,7 +36,7 @@ The project followed the CRISP-DM (Cross-Industry Standard Process for Data Mini
   - Geography: Customers in Germany had significantly higher churn rates compared to France and Spain.
   - Success Metrics: Exceeded the initial success threshold of 75% ROC-AUC.
  
-# Tools & Technologies
+## Tools & Technologies
 - **Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
 - **Interpretability**: SHAP, LIME 
