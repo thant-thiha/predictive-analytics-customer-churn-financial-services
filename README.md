@@ -45,4 +45,4 @@ The project followed the CRISP-DM (Cross-Industry Standard Process for Data Mini
 ## Additional Resources
 - [Notebook](https://github.com/thant-thiha/predictive-analytics-customer-churn-financial-services/blob/main/Financial_Services_Churn_Predictive_Analytics_Notebook.ipynb)
 - [Poster Presentation](https://github.com/thant-thiha/predictive-analytics-customer-churn-financial-services/blob/main/Financial_Services_Churn_Predictive_Analytics_Poster_Presentation.pdf)
-- [Report](https://github.com/thant-thiha/predictive-analytics-customer-churn-financial-services/blob/main/Financial_Services_Churn_Predictive_Analytics_Report.docx)
+- [Report](https://github.com/thant-thiha/predictive-analytics-customer-churn-financial-services/blob/main/Financial_Services_Churn_Predictive_Analytics_Report.pdf)
